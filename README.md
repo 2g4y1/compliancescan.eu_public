@@ -21,7 +21,7 @@ Before opening a new issue, please [search existing issues](../../issues) to avo
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-If you discover a security vulnerability, please send an email to **security@compliancescan.eu**. You will receive a response within 48 hours. We appreciate your responsible disclosure.
+If you discover a security vulnerability, please send an email to **security@compliancescan.eu**. You will receive a response within 2 business days (Monday–Friday, CET/CEST). We appreciate your responsible disclosure.
 
 ## License
 
